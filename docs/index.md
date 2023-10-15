@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ICTC CMS"
-  text: "A CMS Site"
+  text: "A CMS Stie"
   tagline: My great project tagline
   actions:
     - theme: brand

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ICTC CMS",
-  description: "A CMS Site",
+  description: "A CMS Stie",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
