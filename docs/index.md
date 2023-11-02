@@ -22,4 +22,9 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+<script setup>
+  import HelloWorld from './components/HelloWorld.vue';
+</script>
+
+<!-- <HelloWorld></HelloWorld> -->
 
