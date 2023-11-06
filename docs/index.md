@@ -7,7 +7,7 @@ hero:
   text: "A CMS Stie"
   tagline: 道可道，非常道
   image:
-    src: /images/logo.svg
+    src: /images/logo.png
     alt: 道
   actions:
     - theme: brand

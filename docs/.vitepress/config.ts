@@ -6,7 +6,7 @@ export default defineConfig({
   description: "弘扬中华优秀传统文化 实现中华民族伟大复兴",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/images/logo.svg",
+    logo: "/images/logo.png",
     nav: [
       { text: '首页', link: '/' },
       { text: '关于', link: '/about' },
