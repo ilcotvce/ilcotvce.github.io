@@ -16,8 +16,8 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: '中国琴', link: '/ChineseQin/index.md' },
-          { text: '中国棋', link: '/ChineseQi/index.md' },
+          { text: '中国乐器', link: '/ChineseQin/index.md' },
+          { text: '中国棋类', link: '/ChineseQi/index.md' },
           { text: '中国书法', link: '/ChineseShuFa/index.md' },
           { text: '中国画', link: '/ChineseHua/index.md' },
         ]
