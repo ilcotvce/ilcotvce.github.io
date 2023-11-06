@@ -16,10 +16,10 @@ export default defineConfig({
       {
         text: '目录',
         items: [
-          { text: '中国乐器', link: '/ChineseQin/index.md' },
-          { text: '中国棋类', link: '/ChineseQi/index.md' },
-          { text: '中国书法', link: '/ChineseShuFa/index.md' },
-          { text: '中国画', link: '/ChineseHua/index.md' },
+          { text: '中国乐器', link: '/ChineseQin/' },
+          { text: '中国棋类', link: '/ChineseQi/' },
+          { text: '中国书法', link: '/ChineseShuFa/' },
+          { text: '中国画', link: '/ChineseHua/' },
         ]
       }
     ],
@@ -39,5 +39,5 @@ export default defineConfig({
       label: '中文',
       lang: 'zh-cn'
     },
-  }
+  },
 })
