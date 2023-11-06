@@ -1,7 +1,18 @@
+@font-face {
+    font-family: "AlimamaDaoLiTi";
+    font-weight: 400;
+    font-size: 18px;
+    src: url("/fonts/AlimamaDaoLiTi.woff2") format("woff2"),
+        url("/fonts/AlimamaDaoLiTi.woff") format("woff");
+    font-display: swap;
+}
+
 :root {
     /* 图标背景 */
 
     --vp-home-hero-image-filter: blur(120px);
     --vp-home-hero-image-background-image: linear-gradient(-45deg, #1e1ab960 30%, #3f27c460);
-
+    
+    /* 字体风格 */
+    --vp-font-family-base: "AlimamaDaoLiTi";
 }
