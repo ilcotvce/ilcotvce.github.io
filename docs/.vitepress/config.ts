@@ -25,5 +25,5 @@ export default defineConfig({
       { icon: 'github', link: 'ilcotvce.github.io' }
     ]
   },
-  base: '/ilcotvce/'
+  base: '/'
 })
