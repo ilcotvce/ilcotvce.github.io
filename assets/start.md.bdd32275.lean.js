@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,Q as a}from"./chunks/framework.8048b864.js";const i=JSON.parse('{"title":"欢迎来到ICTC🎉","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","filePath":"start.md"}'),s={name:"start.md"},p=a("",9),n=[p];function h(o,_,l,b,v,f){return e(),r("div",null,n)}const d=t(s,[["render",h]]);export{i as __pageData,d as default};
