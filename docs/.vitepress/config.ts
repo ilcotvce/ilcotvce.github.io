@@ -16,6 +16,9 @@ export default defineConfig({
       {
         text: '开始探索',
         link: '/start.md',
+      },
+      {
+        text: '目录',
         collapsed: true,
         items: [
           { text: '中国乐器', link: '/ChineseQin/' },
