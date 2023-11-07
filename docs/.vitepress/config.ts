@@ -32,12 +32,15 @@ export default defineConfig({
     // socialLinks: [
     //   { icon: 'github', link: 'ilcotvce.github.io' }
     // ]
+    search: {
+      provider: 'local',
+    }
   },
   base: '/',
   locales: {
     root: {
-      label: '中文',
-      lang: 'zh-cn'
+      lang: 'zh-cn',
+      label: '简体中文',
     },
   },
 })
