@@ -47,67 +47,67 @@ features:
       src: /icons/fu.svg
     title: 传统节日
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /JieRi/
   - icon:
       src: /icons/lianpu.svg
     title: 中国戏剧
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /XiJu/
   - icon:
       src: /icons/dayanta.svg
     title: 中国建筑
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /JianZhu/
   - icon:
       src: /icons/zhongcaoyao.svg
     title: 中医药学
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /ZhongYi/
   - icon:
       src: /icons/taiji.svg
     title: 宗教哲学
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /ZongJiao/
   - icon:
       src: /icons/jianzhi.svg
     title: 民间工艺
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /GongYi/
   - icon:
       src: /icons/shaolin.svg
     title: 中华武术
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /WuShu/
   - icon:
       src: /icons/qipao.svg
     title: 传统服饰
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /FuShi/
   - icon:
       src: /icons/shanchuan.svg
     title: 地域文化
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /DiYuWenHua/
   - icon:
       src: /icons/qinghuaci.svg
     title: 古玩器物
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /GuWan/
   - icon:
       src: /icons/mifan.svg
     title: 饮食厨艺
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /YinShi/
   - icon:
       src: /icons/qinglong.svg
     title: 神话传说
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /ShenHua/
   - icon:
       src: /icons/zhujian.svg
     title: 诸子百家
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ChineseHua/
+    link: /BaiJia/
 ---
 
 <!-- <script setup>
