@@ -24,6 +24,7 @@ export default defineConfig({
           { text: '中国乐器', link: '/ChineseQin/' },
           { text: '中国棋类', link: '/ChineseQi/' },
           { text: '中国书法', link: '/ChineseShuFa/' },
+          { text: '中国画', link: '/ChineseHua/' },
           { text: '诗词歌赋', link: '/ShiCi/' },
           { text: '传统节日', link: '/JieRi/' },
           { text: '中国建筑', link: '/JianZhu/' },
